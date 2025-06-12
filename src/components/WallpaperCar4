@@ -1,0 +1,97 @@
+
+            <Button variant="ghost" size="icon" className="relative">
+              <Icon name="ShoppingCart" classNamed.tsx">
+import { Card, Car="w-5 h-5dContent } from '@/components/ui/card';
+import { Button } from '@/" />
+              <span className="absolutecomponents/ui/button';
+import -top-1 -right- { Badge } from '@/components/ui/badge';
+import { Heart, Sh1 bg-purple-500 text-white text-oppingCart, Eye } from 'xs rounded-full w-5 lucide-react';
+
+interface Wh-5 flex items-centerallpaperCardProps justify-center">3</span> {
+  id: number;
+  title: string;
+            </Button>
+            
+            {
+  price: number;
+  originalPrice?: number;/* Mobile menu button */}
+  category: string;
+            <Button 
+              variant="
+  image: string;
+  isghost" 
+              size="iconPopular?: boolean;
+  isNew" 
+              className="md:hidden"
+              ?: boolean;
+}
+
+const WallonClick={() => setIsMenuOpen(!isMenuOpen)}
+            >paperCard = ({ 
+  id, 
+              <Icon name="Menu" className
+  title, 
+  price, 
+  originalPrice, ="w-5 h-5" />
+            </Button>
+          </div>
+        </div>
+
+        {/* Mobile Navigation */
+  category, }
+        {isMenuOpen &&
+  image, 
+  is (
+          <div className="md:Popular, 
+  isNew 
+}: Whidden py-4 border-t border-allpaperCargray-100">
+            <nav className="flexdProps) => {
+  return (
+    <Card className="group flex-col space-y-2">
+               cursor-pointer overflow-hidden border-0 shadow-md hover:shadow-<a href="#" className="px-2 py-22xl transition-all duration-500  text-gray-700 hover:text-purple-600 transition-colors">Главнаяhover:-translate-y-1">
+      <CardContent className</a>
+              <a href="#" className="px-2 py-2 text-gray-700 ="p-0">
+        {hover:text-purple-600 transition-colors">Каталог</a>
+              <a href="#" className="px-2 /* Image Container */}
+        <div className="relative aspect-[3/4] overflow-hidden">
+          <imgpy-2 text-gray-
+            src={image}
+            alt={title}700 hover:text-purple-
+            className="w-full h-600 transition-colors">О нас</a>
+              full object-cover group-hover:scale-105 transition-transform duration<a href="#" className="px-2-500"
+          />
+           py-2 text-gray-700 hover:text-purple
+          {/* Badges-600 transition-colors"> */}
+          <div className="Контакты</a>
+            </nav>absolute top-3 left-3
+             flex flex-col<div className="mt-4"> gap-2">
+            {isNew && (
+              <Badge className
+              <div className="relative">
+                <Icon name="Search" className="absolute="bg-green-500 hover:bg-green-600 text-white"> left-3 top-1/
+                Новинка
+              </Badge>
+            2 transform -translate-y-1/2 w-4 h-4 text-gray-)}
+            {isPopular && (
+              <Badge className="bg400" />
+                <Input 
+                  placeholder="Поиск обоев..." 
+                -[#9b87f5] hover:bg-[#7E69AB] text-white">
+                Хит прод  className="pl-10 pr-4 py-2 w-full border-gray-200"
+                />
+              </div>аж
+              </Badge>
+            )}
+          </div>
+          
+          {/*
+            </div>
+          </div>
+        )}
+       Quick Actions */}
+          <div className="absolute top</div>
+    </header>
+  );
+};
+
+export default Header-3 right-3 flex flex-;

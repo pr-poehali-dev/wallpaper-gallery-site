@@ -1,0 +1,50 @@
+
+import { Card } from '@/components/ui/car.com/photo-1518d';
+import type { Category } from '@/data/categories';
+
+interface CategoryCardProps {
+  category:709268805-4 Category;
+}
+
+const CategoryCare9042af2176?d = ({ category }: CategoryCardProps) => {
+  return (ixlib=rb
+    <Card className="group relative-4.0.3&auto overflow-hidden cursor-pointer hover:shadow-xl transition-all=format&fit=crop&w duration-300 hover:-translate-=500&y-2">
+      q=80',<div className="relative h-48 overflow-hidden">
+        <img 
+          src={
+    isPopular: true,
+    isNew: false
+  },
+  {
+    icategory.image} 
+          alt={category.name}
+          className="w-fulld: 2,
+    title: h-full object-cover group- 'Геометрические формhover:scale-110 transition-transformы - модерн',
+     duration-500"
+        />
+        <div className="absolute inset-0 price: 1bg-gradient-to-t from-black/70890,
+    category: ' via-black/20Абстракция',
+    image: to-transparent" />
+         'https://images.unsplash.com/photo-1567
+        <div className="absolute bottom359781514-3b964e-4 left-4 right-4 text-white">
+          <h3 className="text-xl font-bold mb-1 font-montserrat">{category.name}</h3>2b04d6?ix
+          <p className="text-sm text-gray-lib=rb-4.0.3&auto=format&fit=crop&w=500&q=80',
+    isPopular: false,
+    isNew: true
+  },200 mb-2">{
+  {
+    id: 3,
+    title: 'category.description}</p>
+          <span className="text-xs bg-white/20 backdrop-blur-smМраморная текстура - класс px-2 py-1 rounded-full">ика',
+    price: 3490,
+    category: '
+            {category.count}Современные',
+    image: товаров
+          </span> 'https://images.unspl
+        </div>
+      </divash.com/photo-1518709268805->
+    </Card>
+  4e9042af2176?);
+};
+
+export default CategoryCard;
